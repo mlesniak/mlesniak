@@ -1,6 +1,6 @@
 Hello,
 
-My name is Dr. Michael Lesniak, I am a polyglot software engineer with many years of experience in different software development roles such as senior and staff engineer, architect, team lead and CTO, specialised in software architecture and design, Kotlin, Go, Java, Clean Code, distributed system and a track record of successful projects in miscellaneous domains.
+My name is Dr. Michael Lesniak, I am a polyglot software engineer with many years of experience in different software development roles such as senior and staff engineer, architect, team lead and CTO, focusing on software architecture and design, Kotlin, Go, Java, Clean Code, distributed system and a track record of successful projects in miscellaneous domains.
 
 This is my GitHub account and contains a lot of playground projects about different topics
 
