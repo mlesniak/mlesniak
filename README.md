@@ -1,6 +1,8 @@
 Hello,
 
-this is my repository and contains a lot of playground projects about different topics
+My name is Dr. Michael Lesniak, I am a polyglot software engineer with many years of experience in different software development roles such as senior and staff engineer, architect, team lead and CTO, specialised in software architecture and design, Kotlin, Go, Java, Clean Code, distributed system and a track record of successful projects in miscellaneous domains.
+
+This is my GitHub account and contains a lot of playground projects about different topics
 
 | Repository                                                                                 | Description                                                                         |
 |--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
@@ -15,4 +17,4 @@ this is my repository and contains a lot of playground projects about different 
 | [advent-of-code-2019](https://github.com/mlesniak/advent-of-code-2019)                     | Advent of Code 2019 solutions in Go                                                 |
 | [go-raytracer](https://github.com/mlesniak/go-raytracer)                                   | A raytracer written in Go                                                           |
 
-... and a lot more, just look around at [my repositories](https://github.com/mlesniak?tab=repositories) and [drop me an email](mailto:mail@mlesniak.com) if you have any question, comments, job offers or just want to say "Hi!". 
+... and a lot more, just look around at [my roughly 100 public repositories](https://github.com/mlesniak?tab=repositories) and [drop me an email](mailto:mail@mlesniak.com) if you have any question, comments, job offers or just want to say "Hi!". 
