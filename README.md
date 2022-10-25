@@ -21,5 +21,7 @@ This is my GitHub account and contains a lot of playground projects about differ
 
 ## Some Stats
 
+<div>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlesniak" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mlesniak&show_icons=true&line_height=27&count_private=true"/>
+</div>
