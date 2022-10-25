@@ -18,3 +18,8 @@ This is my GitHub account and contains a lot of playground projects about differ
 | [go-raytracer](https://github.com/mlesniak/go-raytracer)                                   | A raytracer written in Go                                                           |
 
 ... and a lot more, just look around at [my roughly 100 public repositories](https://github.com/mlesniak?tab=repositories) and [drop me an email](mailto:mail@mlesniak.com) if you have any question, comments, job offers or just want to say "Hi!". 
+
+## Some Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlesniak" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mlesniak&show_icons=true&line_height=27&count_private=true"/>
