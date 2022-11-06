@@ -1,6 +1,6 @@
 # Hello,World
 
-I'm Dr. Michael Lesniak, a polyglot software engineer with many years of experience in different software development roles such as senior and staff engineer, architect, team lead and CTO, focusing on software architecture and design, Kotlin, Go, Java, Clean Code, distributed systems and a track record of successful projects in miscellaneous domains. In addition, I play around with lots of topics, e.g. programming languages (Rust, Clojure, Zig, ...) or concepts (graphics programming, language implementations, ...).
+I'm Dr. Michael Lesniak, a polyglot software engineer with many years of experience in different software development roles such as senior and staff engineer, architect, team lead and CTO, focusing on software architecture and design, Kotlin, Go, Java, Clean Code, distributed systems and a track record of successful projects in miscellaneous domains. In addition, I play around with lots of topics, e.g. programming languages (Rust, Clojure, Zig, ...) or concepts (graphics, programming languages, ...).
 
 ## Interesting repositories
 
