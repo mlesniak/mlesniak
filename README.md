@@ -9,6 +9,7 @@ This is my GitHub account and contains a lot of playground projects about differ
 | Repository                                                                                 | Description                                                                         |
 |--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
 | [rust-raycaster](https://github.com/mlesniak/rust-raycaster)                               | Raycaster in Rust                                                                   |
+| [libgdx-kotlin-gradle-engine](https://github.com/mlesniak/libgdx-kotlin-gradle-engine)     | Basic software renderer from scratch in Kotlin using libGDX                         |
 | [git-analyzer](https://github.com/mlesniak/git-analyzer)                                   | Analyze your git logs to gather insights into your code structure                   |
 | [kotlin-ncurses-jni-mandelbrot](https://github.com/mlesniak/kotlin-ncurses-jni-mandelbrot) | Renders Mandelbrot images using JNI via ncurses in your terminal                    |
 | [sudoku](https://github.com/mlesniak/sudoku)                                               | Sudoku solver in Kotlin using functional programming patterns                       |
