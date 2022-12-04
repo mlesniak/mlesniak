@@ -15,6 +15,7 @@ This is my GitHub account and contains a lot of playground projects about differ
 | [sudoku](https://github.com/mlesniak/sudoku)                                               | Sudoku solver in Kotlin using functional programming patterns                       |
 | [port-scanner](https://github.com/mlesniak/port-scanner)                                   | Port scanner mirroring nmap written in Go                                           |
 | [fizz-jvm](https://github.com/mlesniak/fizz-jvm)                                           | A very pragmatic JVM implementation which allows to run a compiled FizzBuzz example |
+| [advent-of-code-2022](https://github.com/mlesniak/advent-of-code-2022)                     | Advent of Code 2022 solutions in Kotlin                                             |      
 | [advent-of-code-2021](https://github.com/mlesniak/advent-of-code-2021)                     | Advent of Code 2021 solutions in Kotlin                                             |      
 | [advent-of-code-2020](https://github.com/mlesniak/advent-of-code-2020)                     | Advent of Code 2020 solutions in Go                                                 |
 | [advent-of-code-2019](https://github.com/mlesniak/advent-of-code-2019)                     | Advent of Code 2019 solutions in Go                                                 |
