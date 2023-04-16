@@ -1,6 +1,10 @@
 # Hello,World
 
-I'm Dr. Michael Lesniak, a polyglot software engineer with many years of experience in different software development roles such as senior and staff engineer, architect, team lead and CTO, focusing on software architecture and design, Kotlin, Go, Java, Clean Code, distributed systems and a track record of successful projects in miscellaneous domains. In addition, I play around with lots of topics, e.g. programming languages (Rust, Clojure, Zig, ...) or concepts (graphics, programming languages, ...).
+I'm Dr. Michael Lesniak, a polyglot software engineer with many years of experience in different software development
+roles such as senior and staff engineer, architect, team lead and CTO, focusing on software architecture and design,
+Kotlin, Go, Java, Clean Code, distributed systems and a track record of successful projects in miscellaneous domains. In
+addition, I play around with lots of topics, e.g. programming languages (Rust, Clojure, Zig, ...) or concepts (graphics,
+programming languages, ...).
 
 ## Interesting repositories
 
@@ -8,6 +12,7 @@ This is my GitHub account and contains a lot of playground projects about differ
 
 | Repository                                                                                 | Description                                                                         |
 |--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| [kotlin-gameboy](https://github.com/mlesniak/kotlin-gameboy)                               | Gameboy emulator in Kotlin to show boot animation                                   |
 | [rust-raycaster](https://github.com/mlesniak/rust-raycaster)                               | Raycaster in Rust                                                                   |
 | [libgdx-kotlin-gradle-engine](https://github.com/mlesniak/libgdx-kotlin-gradle-engine)     | Basic software renderer from scratch in Kotlin using libGDX                         |
 | [git-analyzer](https://github.com/mlesniak/git-analyzer)                                   | Analyze your git logs to gather insights into your code structure                   |
@@ -20,7 +25,10 @@ This is my GitHub account and contains a lot of playground projects about differ
 | [advent-of-code-2019](https://github.com/mlesniak/advent-of-code-2019)                     | Advent of Code 2019 solutions in Go                                                 |
 | [go-raytracer](https://github.com/mlesniak/go-raytracer)                                   | A raytracer written in Go                                                           |
 
-... and a lot more, just look around at [my roughly 100 public repositories](https://github.com/mlesniak?tab=repositories) and [drop me an email](mailto:mail@mlesniak.com) if you have any question, comments, job offers or just want to say "Hi!". 
+... and a lot more, just look around
+at [my roughly 100 public repositories](https://github.com/mlesniak?tab=repositories)
+and [drop me an email](mailto:mail@mlesniak.com) if you have any question, comments, job offers or just want to say "
+Hi!".
 
 ## Some Stats
 
