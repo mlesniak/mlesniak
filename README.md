@@ -12,7 +12,8 @@ This is my GitHub account and contains a lot of playground projects about differ
 
 | Repository                                                                                 | Description                                                                         |
 |--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| [java-spreadsheet](https://github.com/mlesniak/java-spreadsheet)                                       | Playground non-graphical spreadsheet implementation demonstrating how to compute cells with dependencies and formulas  |
+| [gravity simulator](https://github.com/mlesniak/three-body-zig)                            | Playground to visualize Newton's gravity formula with Zig and Raylib  |
+| [java-spreadsheet](https://github.com/mlesniak/java-spreadsheet)                           | Playground non-graphical spreadsheet implementation demonstrating how to compute cells with dependencies and formulas  |
 | [redis-1024](https://github.com/mlesniak/redis-1024)                                       | Implementation of a basic Redis-compatible server in less than 1024 lines of code   |
 | [chess-engine](https://github.com/mlesniak/chess-engine)                                   | An incomplete chess engine using MinMax with alpha-beta pruning                     |
 | [kotlin-gameboy](https://github.com/mlesniak/kotlin-gameboy)                               | Gameboy emulator in Kotlin to show boot animation                                   |
