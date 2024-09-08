@@ -12,6 +12,7 @@ This is my GitHub account and contains a lot of playground projects about differ
 
 | Repository                                                                                 | Description                                                                         |
 |--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| [http-proxy](https://github.com/mlesniak/challenge-http-proxy)                            | Simple http(s) forward proxy using just the JDK  |
 | [gravity simulator](https://github.com/mlesniak/three-body-zig)                            | Playground to visualize Newton's gravity formula with Zig and Raylib  |
 | [java-spreadsheet](https://github.com/mlesniak/java-spreadsheet)                           | Playground non-graphical spreadsheet implementation demonstrating how to compute cells with dependencies and formulas  |
 | [redis-1024](https://github.com/mlesniak/redis-1024)                                       | Implementation of a basic Redis-compatible server in less than 1024 lines of code   |
