@@ -19,6 +19,7 @@ This is my GitHub account and contains a lot of playground projects about differ
 | [redis-1024](https://github.com/mlesniak/redis-1024)                                       | Implementation of a basic Redis-compatible server in less than 1024 lines of code   |
 | [chess-engine](https://github.com/mlesniak/chess-engine)                                   | An incomplete chess engine using MinMax with alpha-beta pruning                     |
 | [kotlin-gameboy](https://github.com/mlesniak/kotlin-gameboy)                               | Gameboy emulator in Kotlin to show boot animation                                   |
+| [order-and-stock-services](https://github.com/mlesniak/order-stock-services)                               | Showcase for two microservices with MongoDb, interservice communication, testing, etc...                                   |
 | [rust-raycaster](https://github.com/mlesniak/rust-raycaster)                               | Raycaster in Rust                                                                   |
 | [libgdx-kotlin-gradle-engine](https://github.com/mlesniak/libgdx-kotlin-gradle-engine)     | 3D Software renderer completely from scratch in Kotlin using libGDX                 |
 | [git-analyzer](https://github.com/mlesniak/git-analyzer)                                   | Analyze your git logs to gather insights into your code structure                   |
